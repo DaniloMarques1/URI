@@ -8,7 +8,7 @@ elif x == 0:
 elif y == 0:
 	pos = "Eixo X"
 else:
-	if x / y > 0:
+	if x > 0  and y > 0:
 		pos = "Q1"
 	elif x < 0 and y > 0:
 		pos = "Q2"
