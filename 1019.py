@@ -1,3 +1,4 @@
+#Recebendo o tempo em segundos e exibindo em horas:minutos:segundos
 tempo_seg = int(input())
 
 horas = tempo_seg // 3600

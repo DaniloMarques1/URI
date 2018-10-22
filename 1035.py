@@ -1,3 +1,5 @@
+#Lê 4 valores e verifica se são aceitos ou não de acordo com algumas condições
+
 values = input().split()
 a,b,c,d = values
 a = int(a)

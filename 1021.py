@@ -1,3 +1,4 @@
+#Exibindo a quantidade de notas e moedas que formam um dinheiro recebido
 notes = float(input())
 
 

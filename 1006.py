@@ -1,3 +1,5 @@
+#Calcular a media ponderada
+
 p1 = 2
 p2 = 3
 p3 = 5

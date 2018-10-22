@@ -1,3 +1,6 @@
+#Distancia entre dois pontos usando a formula
+#raiz quadrada de (x2 - x1) ** 2 + (y2 - y1 )**2
+
 import math
 point1 = input().split()
 point2 = input().split()

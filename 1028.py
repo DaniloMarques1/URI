@@ -1,3 +1,5 @@
+#Troca de cartas
+#A quantidade de troca de cartas ocorre atraves do maior divisor comum
 test = int(input())
 for i in range(0,test):
 	x,y = map(int,input().split())

@@ -1,3 +1,4 @@
+#Calculo do salario baseado nas horas trabalhadas e no salario por hora
 
 numero = int(input())
 worked = int(input())

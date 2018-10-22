@@ -1,3 +1,6 @@
+#Calcular a media entre duas notas recebidas do usuario
+#Media ponderada, utilizando pesos
+
 p1 = 3.5
 p2 = 7.5
 n1 = float(input())

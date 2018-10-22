@@ -1,3 +1,5 @@
+#Recebendo a quantidade de dias e exibindo em anos:meses:dias
+
 tot_dias = int(input())
 
 anos = tot_dias // 365

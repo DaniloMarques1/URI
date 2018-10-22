@@ -1,3 +1,5 @@
+#Exibindo as notas que fromarão o dinheiro recebido
+
 notes = int(input())
 
 notas_100 = notes // 100

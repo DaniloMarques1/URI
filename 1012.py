@@ -1,3 +1,6 @@
+#Recebe valores
+#Calula o que se pede sobre figuras geometricas
+
 values = input().split()
 pi = 3.14159
 area_tri = (float(values[0]) * float(values[2])) / 2

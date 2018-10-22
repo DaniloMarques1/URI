@@ -1,3 +1,6 @@
+#calcular a de um circulo
+#input sendo o raio 
+
 R = float(input())
 n = 3.14159
 A = n * R ** 2

@@ -1,3 +1,6 @@
+#Ler o codigo do produto, a quantidade e o preço duas vezes e depois calcula o total a pagar
+
+
 product1 = input()
 product1 = product1.split(" ")
 product2 = input()
