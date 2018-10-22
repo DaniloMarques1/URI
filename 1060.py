@@ -1,3 +1,4 @@
+#Ler 6 numeros e definir quantos sao positivos
 n1 = float(input())
 n2 = float(input())
 n3 = float(input())

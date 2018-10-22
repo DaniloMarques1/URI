@@ -1,3 +1,5 @@
+#contar quantos ns estao dentro e fora do intervalo [10,20]
+
 n = int(input())
 number_in = 0
 number_out = 0

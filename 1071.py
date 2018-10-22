@@ -1,3 +1,5 @@
+#contar quantos valores impares entre x e y
+
 x = int(input())
 y = int(input())
 totImpar = 0

@@ -1,3 +1,5 @@
+#Ler 5 numeros e definir quantos sao pares/impares/positivos/negativos
+
 totImpar = 0
 totPar = 0
 totPosi = 0

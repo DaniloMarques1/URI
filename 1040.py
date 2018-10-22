@@ -1,3 +1,5 @@
+#Calculando a media ponderada de um aluno e definindo se ele esta aprovado/reprovado/exame final
+
 values = input().split()
 n1,n2,n3,n4 = values
 

@@ -1,3 +1,5 @@
+#Recebendo um input e definindo seu intervalo
+
 valor = float(input())
 
 if valor < 0 or valor > 100:

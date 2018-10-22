@@ -1,3 +1,4 @@
+#Impostos sobre o salario
 salary = float(input())
 if salary >= 0 and salary <= 2000:
 	print("Isento")

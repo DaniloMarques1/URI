@@ -1,3 +1,4 @@
+#Ler tres palavras que definem um animal e exibir qual animal
 valores = {
 	"vertebrado":{
 		"ave":{

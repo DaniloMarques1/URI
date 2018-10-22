@@ -1,3 +1,5 @@
+#Duração de um jogo em horas e minutos
+
 h1,m1,hf,mf = map(int,input().split())
 
 h1_minutos = h1 * 60 + m1

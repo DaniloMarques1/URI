@@ -1,3 +1,5 @@
+#Ler 5 numeros e definir quantos sao pares
+
 contador = 0
 n1 = int(input())
 if n1 % 2 == 0:

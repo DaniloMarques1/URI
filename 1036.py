@@ -1,3 +1,5 @@
+#Achando raizes de uma equação do segundo grau
+
 import math
 values = input().split()
 a,b,c = values

@@ -1,3 +1,4 @@
+#Recebendo valores e retornando eles reversamente e em sua forma "normal"
 n = list(map(int,input().split()))
 n_sorted = sorted(n)
 

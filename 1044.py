@@ -1,3 +1,4 @@
+#saber se a e b são multiplos
 a,b = map(int, input().split())
 if a > b:
 	resto = a % b

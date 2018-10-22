@@ -1,3 +1,6 @@
+#Recebe o dia inicial de um evento
+#Dia final de um evento
+#Retorna quantos dias:horas:minutos:segundos falta para o evendo
 
 temp, diaI = input().split()
 diaI = int(diaI)

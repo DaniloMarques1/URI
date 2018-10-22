@@ -1,3 +1,5 @@
+#Recebe 3 valores verifica se forma um triangulo e que tipo de triangulo é
+
 a,b,c = sorted(map(float,input().split()), reverse = True)
 
 if (a >= b + c) or (b >= a + c) or (c >= a + b):

@@ -1,4 +1,4 @@
-
+#Definindo a posição da coordenada
 x,y = map(float,input().split())
 
 if x == 0 and y == 0:

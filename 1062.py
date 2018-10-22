@@ -1,3 +1,4 @@
+#Ler 6 números mostrar quantos sao positivos e exibir a soma deles
 l1 = []
 n1 = float(input())
 if n1 > 0:

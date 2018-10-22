@@ -1,3 +1,5 @@
+#imprimir os 6 valores impares ate X
+
 x = int(input())
 cont = 0
 while cont < 6:

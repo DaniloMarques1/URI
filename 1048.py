@@ -1,3 +1,5 @@
+#Reajuste no salario baseado no salario
+
 salario = float(input())
 
 if salario <= 400:
