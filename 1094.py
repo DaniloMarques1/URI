@@ -1,3 +1,6 @@
+#Recebe uma quantidade de cobaias e exibe o percentual de cada
+#Cobaias -> Coelhos, ratos, sapos
+
 d = {"C":0,"S":0,"R":0}
 flag = int(input())
 while flag > 0:
