@@ -1,3 +1,4 @@
+#Padrão de números
 i = 1
 j = 7
 while i <= 9:
